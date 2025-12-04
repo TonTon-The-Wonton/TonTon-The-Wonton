@@ -2,7 +2,7 @@
 
 I'm interested in ML and SWE. Here are some of my projects!
 
-### [AI Text Detector](link-when-you-upload)
+### [AI Text Detector](https://github.com/TonTon-The-Wonton/AI-Text-Detector/tree/main)
 **Silver Medal (Top 3% of 4,300+ teams) - Kaggle Competition**
 
 ### [DistraXcel: Hatch Your Future](link-when-you-upload)
