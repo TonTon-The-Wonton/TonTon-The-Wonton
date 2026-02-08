@@ -1,4 +1,4 @@
-## Hey there 👋! I'm Tony (he/him), a Computer Science student (Class of '27) at Cornell University
+## Hey there 👋! I'm Tony (he/him), a Computer Science student at Cornell University
 
 I'm interested in SWE and AI/ML. Here are some of my projects and awards:
 
